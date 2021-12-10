@@ -1,0 +1,27 @@
+{
+  "name": "src",
+  "version": "0.0.1",
+  "description": "The best team in Brazil",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C src\\index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayguelsilva/Cruzeiro.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Nayguel Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayguelsilva/Cruzeiro/issues"
+  },
+  "homepage": "https://github.com/nayguelsilva/Cruzeiro#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
