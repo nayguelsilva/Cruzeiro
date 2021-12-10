@@ -4,6 +4,7 @@
   "description": "The best team in Brazil",
   "main": "index.js",
   "scripts": {
+    "start": "npx live-server src/" ,
     "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C src\\index.html"
   },
   "repository": {
